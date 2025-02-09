@@ -3,7 +3,7 @@
 <p align="center">
 <img width="710" alt="Sunil Bishnoi Terminal Lighthouse Score" src="public/lighthouse-result.svg">
 </p>
-
+Live site : sunilbishnoi-terminal-portfolio.vercel.app
 ## Running Locally
 
 Clone the project
