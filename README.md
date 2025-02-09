@@ -4,9 +4,8 @@
 <img width="710" alt="Sunil Bishnoi Terminal Lighthouse Score" src="public/lighthouse-result.svg">
 </p>
 
-## View Live
+
 <h2>View Live</h2>
-    <!-- Button for live view -->
     <a href="https://sunilbishnoi-terminal-portfolio.vercel.app" target="_blank">
         <button>View Live Portfolio</button>
     </a>
