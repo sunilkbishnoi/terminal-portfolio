@@ -3,7 +3,9 @@
 <p align="center">
 <img width="710" alt="Sunil Bishnoi Terminal Lighthouse Score" src="public/lighthouse-result.svg">
 </p>
-Live site : sunilbishnoi-terminal-portfolio.vercel.app
+
+<button class="live-view-btn" onclick="window.location.href='sunilbishnoi-terminal-portfolio.vercel.app';">Live View</button>
+
 ## Running Locally
 
 Clone the project
