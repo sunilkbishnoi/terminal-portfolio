@@ -15,7 +15,7 @@
 Clone the project
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/](https://github.com/sunilkbishnoi/terminal-portfolio.git
 ```
 
 Go to the project directory
