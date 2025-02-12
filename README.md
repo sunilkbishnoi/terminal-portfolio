@@ -1,11 +1,5 @@
-## Lighthouse Score
+## View Live
 
-<p align="center">
-<img width="710" alt="Sunil Bishnoi Terminal Lighthouse Score" src="public/lighthouse-result.svg">
-</p>
-
-
-<h2>View Live</h2>
     <a href="https://sunilbishnoi-terminal-portfolio.vercel.app" target="_blank">
         <button>View Live Portfolio</button>
     </a>
