@@ -48,7 +48,7 @@ const Welcome: React.FC = () => {
         <Seperator>----------------------------</Seperator>
         <div>
           Visit My GUI Portfolio :{" "}
-          <Link href="https://sunilbishnoi.bio">
+          <Link href="https://bishnoisunil.vercel.app/">
             NOW
           </Link>
         </div>
