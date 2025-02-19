@@ -39,4 +39,4 @@ npm run dev
 
 Here are some inspiration for this kind of terminal website. 
 
-- [@satnaing](https://satnaing.dev)
+- [@satnaing](https://satnaing.dev) 
