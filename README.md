@@ -34,16 +34,16 @@ Here’s a list of available commands:
 | `clear`          | Clear the terminal screen           |  
 | `echo`           | Print anything you type             |  
 | `education`      | View my education background        |  
-| `email`          | 📧 Send me an email                 |  
+| `email`          | Send me an email                 |  
 | `gui`            | Visit my GUI-based portfolio        |  
-| `help`           | ❔ Display available commands       |  
-| `history`        | 📜 View command history             |  
-| `projects`       | 🚀 Check out my projects & certificates |  
+| `help`           | Display available commands       |  
+| `history`        | View command history             |  
+| `projects`       | Check out my projects & certificates |  
 | `pwd`            | Print current working directory     |  
-| `socials`        | 🔗 See my social media accounts     |  
-| `themes`         | 🎨 List available themes            |  
+| `socials`        | See my social media accounts     |  
+| `themes`         | List available themes            |  
 | `welcome`        | Show the hero section               |  
-| `whoami`         | ℹ️ Info about the current user      |  
+| `whoami`         | Info about the current user      |  
 
 ### ⌨️ Shortcuts  
 - `Tab` or `Ctrl + i`: Autocomplete commands.  
